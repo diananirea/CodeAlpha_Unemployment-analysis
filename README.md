@@ -1,5 +1,7 @@
 ** Unemployment Analysis in India
+
 ** Project Overview
+
 This project performs an exploratory data analysis (EDA) on unemployment data in India. The primary goal is to understand unemployment 
 trends over time, identify regional and area-specific disparities, analyze seasonal patterns, and investigate the impact of significant
 events like the COVID-19 pandemic on employment figures. The analysis involves data cleaning, transformation, and visualization to derive
