@@ -11,7 +11,7 @@ Dataset
 The analysis uses the Unemployment in India.csv dataset, which contains various metrics related to employment and unemployment across
 different regions and time periods in India. Key columns include:
 Region: State or Union Territory in India.
-Date: Date of data collection.
+Date: Date of data collection.8
 Frequency: Frequency of data collection (e.g., Monthly).
 Estimated Unemployment Rate (%): Percentage of the labor force that is unemployed.
 Estimated Employed: Number of people estimated to be employed.
@@ -68,6 +68,3 @@ Technologies Used
  - Seaborn (for advanced statistical visualizations)
 How to Run
 Ensure you have the necessary Python libraries installed (pandas, matplotlib, seaborn).
-Download the Unemployment in India.csv dataset.
-Open the Jupyter/Colab notebook (your_notebook_name.ipynb).
-Run all cells sequentially to reproduce the analysis and visualizations
